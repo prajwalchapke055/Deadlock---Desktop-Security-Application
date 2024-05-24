@@ -61,7 +61,7 @@
 ## ADMIN - Settings (Rights to User)
 ![Screenshot (47)](https://github.com/prajwalchapke055/Deadlock---Desktop-Security-Application/assets/122814333/ee84fcfe-ef0d-4b29-b8d4-899e41cbac8e)
 
-## ADMIN - Settings (Two Steo Verification)
+## ADMIN - Settings (Two Step Verification)
 ![Screenshot (54)](https://github.com/prajwalchapke055/Deadlock---Desktop-Security-Application/assets/122814333/9c7a72f3-b193-44bc-ba27-870758b1a6c1)
 
 ## ADMIN - Settings (Change Password)
